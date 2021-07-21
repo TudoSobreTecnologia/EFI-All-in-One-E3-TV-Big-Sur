@@ -8,7 +8,7 @@ Intel HD Graphics 620 video,
 500gb HDD,
 Audio ALC256,
 Ethernet Card RTL8111
-Wifi Card QCA9377
+Wifi Card QCA9377.
 
 
 
