@@ -1,5 +1,15 @@
 # EFI-All-in-One-E3-TV-Big-Sur
 EFI Big Sur 11.4 for All in One PC Samsung model DP500A2M-KW3BR
+
+Computer Hardware:
+i3 7100u processor
+Intel HD Graphics 620 video
+4gb memory DDR4 2133 (Expansive to 8gb)
+500gb HDD
+Audio ALC256
+
+
+
 Working: 
 All USB 3.0
 Audio Input
