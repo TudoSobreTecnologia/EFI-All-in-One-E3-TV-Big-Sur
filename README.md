@@ -6,7 +6,9 @@ i3 7100u processor,
 Intel HD Graphics 620 video,
 4gb memory DDR4 2133 (Expansive to 8gb),
 500gb HDD,
-Audio ALC256.
+Audio ALC256,
+Ethernet Card RTL8111
+Wifi Card QCA9377
 
 
 
